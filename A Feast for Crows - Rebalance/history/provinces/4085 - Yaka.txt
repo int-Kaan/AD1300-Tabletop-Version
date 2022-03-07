@@ -1,0 +1,15 @@
+owner = KON
+controller = KON
+add_core = KON
+culture = yaka
+religion = shamanism #Fetishism
+capital = "Yaka"
+trade_goods = slaves
+hre = no
+base_tax = 5
+base_production = 4
+base_manpower = 3
+is_city = yes
+discovered_by = central_african
+
+1556.1.1 = { discovered_by = POR }
